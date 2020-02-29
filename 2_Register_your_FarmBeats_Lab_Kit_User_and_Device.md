@@ -79,8 +79,9 @@ us](mailto:support@farmbeatslabs.com) *to arrange.*
 
 - On the back of your device will be a Device ID code that you can use to register the device.  
 
-![](media/c610a04f4848eca9a1f43db8e611cc4a.png)
+![](media/RPi_DeviceID.jpg)
 
+- You will used this code as the Device ID on the device registration page. 
 
 ![](media/5480cbfabe1fd2e98fe9d0698ba54ec8.png)
 
