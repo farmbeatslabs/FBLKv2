@@ -3,7 +3,7 @@ Microsoft FarmBeats Lab Kit: Indoor M1
 
 ![FarmBeats Lab Kit](media/6ce37f9fac5376235962215af0db38c9.png)
 
-The FarmBeats LAb Kit - Indoor M1, includes preconfigured Microsoft Azure
+The FarmBeats Lab Kit - Indoor M1, includes preconfigured Microsoft Azure
 cloud services, and a Raspberry Pi with Windows 10 IoT Core along with soil
 moisture, light, air temperature, humidity and barometric pressure sensors to
 collect data that can provide insights to help you understand how to improve
