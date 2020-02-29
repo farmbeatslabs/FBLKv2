@@ -6,7 +6,7 @@ questions that can provide you with additional troubleshooting information about
 
 If you have an issue then please check the Issues area where it can be searched first, then logged as new so that the FarmBeats Student Kit team and the Community can help provide you with a potential answer. 
 
-https://github.com/farmbeatslabs/studentkit/issues
+https://github.com/farmbeatslabs/fblkv2/issues
 
 
 Known Issues

@@ -20,8 +20,8 @@ To complete the installation you will require:
 
 
 On the bottom of your Raspeberry Pi there is a Device ID sticker. 
- -  [Step 1 - Assemble your FarmBeats Student Kit hardware](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/1b_Assemble_your_FarmBeats_Student_Kit_Hardware.md)
- -  [Step 2 - Registering your FarmBeats Student Kit User and Device](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md) 
+ -  [Step 1 - Assemble your FarmBeats Student Kit hardware](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/1b_Assemble_your_FarmBeats_Student_Kit_Hardware.md)
+ -  [Step 2 - Registering your FarmBeats Student Kit User and Device](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md) 
 
 
 Assemble your FarmBeats Student Kit Hardware
@@ -83,7 +83,7 @@ Next Steps
 
 You have now assembled your FarmBeats Student Kit. You can now proceed to [Step
 1c – Identify your unique Device
-ID](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/1c_Identify_your_unique_Device_ID.md)
+ID](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/1c_Identify_your_unique_Device_ID.md)
 
 
 Identify you unique Device ID

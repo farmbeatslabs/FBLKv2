@@ -107,7 +107,7 @@ us](mailto:support@farmbeatslabs.com) *to arrange.*
     Central application has been created and your device has been added to your
     cloud application. You can now proceed to [Step 3 – Configure your Azure IoT
     Cloud
-    Service](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
+    Service](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
 
 ### Register a second device
 

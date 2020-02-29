@@ -41,20 +41,7 @@ connect the physical and digital worlds, monitor, and manage your IoT devices.
 Add maps, search, routing, and traffic capabilities to your apps with geospatial
 services APIs that integrate seamlessly with other Azure tools and services.
 
-Installation Checklist
-----------------------
 
-To assist you in getting through the setup documentation we have created this
-[checklist](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/Indoor_M1_Installation_Checklist.pdf).
-Download, print out, and check of each off the key installation steps as you go,
-to ensure you don’t miss anything important.
-
-Known Issues and Frequently Asked Questions
--------------------------------------------
-
-To keep any a single place for issues, additional questions, troubleshooting
-information we have put together a list of known issues and frequently asked
-questions here.
 
 Setting up your FarmBeats Student Kit
 -------------------------------------
@@ -62,17 +49,17 @@ Setting up your FarmBeats Student Kit
 To get started follow these instructions:
 
 -   1 - [Build and test your Windows 10 IoT Core
-    device](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/1_Build_your_Windows_10_IoT_Core_Device.md)
+    device](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/1_Build_your_Windows_10_IoT_Core_Device.md)
 
     -   Attach sensors, and connect your device.
 
 -   2 - [Register your FarmBeats Student Kit User and
-    Devices](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md)
+    Devices](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md)
 
     -   Sign up at the FarmBeats Student Kit Portal and register your device.
 
 -   3 - [Configure your Azure IoT Central Cloud
-    Services](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
+    Services](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
 
     -   Customize your Azure IoT Central to gain insights from sensor data.
 
@@ -90,5 +77,5 @@ If you would like to purchase kits then please contact us by email at
 Whats in the kit
 -----------------
 [FarmBeats Student Kit: Indoor M1 Hardware
-List](https://github.com/farmbeatslabs/studentkit/blob/master/Indoor-m1/Indoor_M1_Hardware_List.md)
+List](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/Indoor_M1_Hardware_List.md)
 
