@@ -49,17 +49,17 @@ Setting up your FarmBeats Lab Kit
 To get started follow these instructions:
 
 -   1 - [Build and test your Windows 10 IoT Core
-    device](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/1_Build_your_Windows_10_IoT_Core_Device.md)
+    device](https://github.com/farmbeatslabs/FBLKv2/blob/master/1_Build_your_Windows_10_IoT_Core_Device.md)
 
     -   Attach sensors, and connect your device.
 
 -   2 - [Register your FarmBeats Lab Kit User and
-    Devices](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Lab_Kit_User_and_Device.md)
+    Devices](https://github.com/farmbeatslabs/FBLKv2/blob/master/2_Register_your_FarmBeats_Lab_Kit_User_and_Device.md)
 
     -   Sign up at the FarmBeats Lab Kit Portal and register your device.
 
 -   3 - [Configure your Azure IoT Central Cloud
-    Services](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
+    Services](https://github.com/farmbeatslabs/FBLKv2/blob/master/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
 
     -   Customize your Azure IoT Central to gain insights from sensor data.
 
