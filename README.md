@@ -54,7 +54,7 @@ To get started follow these instructions:
     -   Attach sensors, and connect your device.
 
 -   2 - [Register your FarmBeats Student Kit User and
-    Devices](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md)
+    Devices](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Lab_Kit_User_and_Device.md)
 
     -   Sign up at the FarmBeats Student Kit Portal and register your device.
 
