@@ -34,6 +34,4 @@ Configure the Azure IoT Central Dashboard
 
 ### Test that your sensor data is being received. 
 
-Cover the light sensor and click the commands, Sensor Update
-
-Properties, update the location
+Click on the Devices menu, select your device, 
