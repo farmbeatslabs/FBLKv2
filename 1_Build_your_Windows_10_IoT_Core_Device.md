@@ -18,12 +18,6 @@ To complete the installation you will require:
 -   A mouse, keyboard and HDMI monitor is only required for troubleshooting
 
 
-
-On the bottom of your Raspeberry Pi there is a Device ID sticker. 
- -  [Step 1 - Assemble your FarmBeats Student Kit hardware](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/1b_Assemble_your_FarmBeats_Student_Kit_Hardware.md)
- -  [Step 2 - Registering your FarmBeats Student Kit User and Device](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md) 
-
-
 Assemble your FarmBeats Student Kit Hardware
 ----------------------------------
 
@@ -86,17 +80,6 @@ You have now assembled your FarmBeats Student Kit. You can now proceed to [Step
 ID](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/1c_Identify_your_unique_Device_ID.md)
 
 
-Identify you unique Device ID
------------------
-
-To register your Microsoft FarmBeats Lab Kit you first must identify your
-device unique ID and then follow the registration process on the FarmBeats web
-portal.
-
-On the back of your device will be a Device ID code that you can use to register the device.  
-
-![](media/c610a04f4848eca9a1f43db8e611cc4a.png)
-
 
 Connecting to the Internet
 --------------------------
@@ -113,8 +96,7 @@ Questions if you are having issues getting your device online.*
 
 ![](media/75e575255504adca7f94b162988289f7.png)
 
--   **To connect with a Wi-Fi connection** – follow the steps later in this
-    document
+-   **To connect with a Wi-Fi connection** – plug mouse, keyboard and monitor into your device and then connect to wifi the first time. From then on it will connect automatically. 
 
-
-Next you 
+Next you can move to - [Step 2 - Registering your FarmBeats Student Kit User and Device](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md) 
+ 

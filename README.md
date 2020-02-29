@@ -12,7 +12,7 @@ productivity, increase yield, and save resources.
 What are the components that make up the kit
 --------------------------------------------
 
-The FarmBeats Student Kit Indoor M1 is an Internet of Things (IoT) solution that
+The FarmBeats Lab Kit Indoor M1 is an Internet of Things (IoT) solution that
 is made up of several technology components that include the cloud and the
 device.
 
@@ -43,7 +43,7 @@ services APIs that integrate seamlessly with other Azure tools and services.
 
 
 
-Setting up your FarmBeats Student Kit
+Setting up your FarmBeats Lab Kit
 -------------------------------------
 
 To get started follow these instructions:
@@ -53,10 +53,10 @@ To get started follow these instructions:
 
     -   Attach sensors, and connect your device.
 
--   2 - [Register your FarmBeats Student Kit User and
+-   2 - [Register your FarmBeats Lab Kit User and
     Devices](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Lab_Kit_User_and_Device.md)
 
-    -   Sign up at the FarmBeats Student Kit Portal and register your device.
+    -   Sign up at the FarmBeats Lab Kit Portal and register your device.
 
 -   3 - [Configure your Azure IoT Central Cloud
     Services](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/3_Configure_your_Azure_IoT_Central_Cloud_Service.md)
@@ -66,16 +66,17 @@ To get started follow these instructions:
 Whats in the FarmBeats Lab Kit
 ---------------------------------------
 
+[FarmBeats Lab Kit: Indoor M1 Hardware
+List](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/Indoor_M1_Hardware_List.md)
+
+
+How to purchase the Lab Kit
+--------------------------
+
 At this time we are only supplying the FarmBeats Lab Kit customized and
 pre-configured for educational institutions like schools, universities and code
 clubs. 
 
 If you would like to purchase kits then please contact us by email at
 [mailto:support\@farmbeatslabs.com](mailto:support@farmbeatslabs.com).
-
-
-Whats in the kit
------------------
-[FarmBeats Student Kit: Indoor M1 Hardware
-List](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/Indoor_M1_Hardware_List.md)
 
