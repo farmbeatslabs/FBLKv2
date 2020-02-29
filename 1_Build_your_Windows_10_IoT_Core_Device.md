@@ -98,5 +98,5 @@ Questions if you are having issues getting your device online.*
 
 -   **To connect with a Wi-Fi connection** – plug mouse, keyboard and monitor into your device and then connect to wifi the first time. From then on it will connect automatically. 
 
-Next you can move to - [Step 2 - Registering your FarmBeats Student Kit User and Device](https://github.com/farmbeatslabs/fblkv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md) 
+Next you can move to - [Step 2 - Registering your FarmBeats Student Kit User and Device](https://github.com/farmbeatslabs/FBLKv2/blob/master/Indoor-m1/2_Register_your_FarmBeats_Student_Kit_User_and_Device.md) 
  
